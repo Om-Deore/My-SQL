@@ -1,4 +1,4 @@
-use youtube;
+USE youtube;
 
 ALTER TABLE burger
 ADD COLUMN Job VARCHAR (20)
