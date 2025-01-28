@@ -1,4 +1,4 @@
-use youtube;
+USE youtube;
 
 SELECT COUNT(AMOUNT) AS AMOUNT_AMOUNT 
 FROM Transaction;
@@ -18,3 +18,4 @@ FROM Transaction;
 SELECT CONCAT(First_name," ",Last_name) AS Full_Name
 FROM Customers;
 
+SELECT COALESCE(hire_date, NULL) AS NULL_DATE FROM burger; -- COALESCE Function is used to deal with the null values in the table 	 
