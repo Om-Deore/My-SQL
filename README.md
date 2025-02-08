@@ -21,7 +21,7 @@ Each `.sql` file corresponds to a specific practice session or concept:
 3. **Practice Session 3.sql** - Advanced ALTER queries.
 4. **Practice Session 4.sql** - Grouping and aggregation.
 5. **Practice Session 5 (Commit and Auto Commit).sql** - Understanding transactions.
-6. **Practice Session 5 (Current_date and Current_time).sql** - Using date and time functions.
+6. **Practice Session 6 (Current_date and Current_time).sql** - Using date and time functions.
 7. **Practice Session 7 (CHECK).sql** - Using CHECK constraints.
 8. **Practice Session 8 (DEFAULT).sql** - Using DEFAULT constraints.
 
